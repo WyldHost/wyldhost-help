@@ -1,1 +1,1 @@
-# test
+# Discord Bot Guide
