@@ -1,4 +1,4 @@
-# Discord Bots × WyldHost
+# Host your Discord Bot @ WyldHost
 ## Introduction
 Welcome to WyldHost, the perfect hosting solution for your Discord bot. WyldHost is a powerful and affordable hosting platform that allows you to easily host your Discord bots with ease. In this guide, we'll show you how to set up your Discord bot on WyldHost using Pterodactyl and Node.js.
 
